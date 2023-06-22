@@ -1,2 +1,2 @@
 # AmanaProj
-WebSite and Mobile app for Amana
+WebSite and Mobile app (Android) for Amana
